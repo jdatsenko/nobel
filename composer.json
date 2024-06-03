@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpgangsta/googleauthenticator": "dev-master",
+        "google/apiclient": "^2.0"
+    }
+}
